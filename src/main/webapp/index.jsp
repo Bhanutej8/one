@@ -189,7 +189,7 @@
             <li>Orchestration - Kubernetes</li>
             <li>Infrastructure as Code - Terraform</li>
             <li>Cloud Platforms - AWS </li>
-            <li>Monitoring - Prometheus, Grafana</li>
+            <li>Monitoring - Prometheus </li>
         </ul>
     </section>
 
